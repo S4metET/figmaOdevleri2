@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 1440px;
+    height: 800px;
+    padding: 175px 420px 175px 420px;
+    background: #F2EAE2;
+}
+.content{
+    float: left;
+    width: 600px;
+    height: 450px;
+    border-radius: 10px;
+    background-color: white;    
+}
+.perfume{
+    margin-top: 32px;
+    margin-left: 31.5px;
+    float: left;
+    width: 92px;
+    height: 15px;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 14.63px;
+    letter-spacing: 5px;
+    color: #6C7289;
+}
+.content img{
+    float: left;
+}
+.content h1{
+    margin-top: 20px;
+    margin-left: 31.5px;
+    float: left;
+    width: 236px;
+    height: 96px;
+    font-family: Fraunces;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 32px;
+    color: #1C232B;
+}
+.pcontent{
+    margin-top: 24px;
+    margin-left: 31.5px;
+    float: left;
+    width: 237px;
+    left: 331.5px;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 23px;
+    color: #6C7289;
+}
+.money{
+    float: left;
+    width: 127px;
+    margin-top: 29px;
+    margin-left: 31.5px;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 32px;
+    color: #3D8168;
+}
+.money span{
+    margin-top: -25px;
+    margin-left: 120px;
+    float: left;
+    width: 48px;
+    height: 23px;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 23px;
+    color: #6C7289;
+}
+.content a{
+    float: left;
+    margin-top: 30px;
+    margin-left: 31.5px;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17.07px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #fff;
+    text-decoration: none;
+    padding: 16px 74px;
+    border-radius: 8px 8px 8px 8px;
+    background-color: #3D8168;
+}
+.content a img{
+    margin-right: 10px;
+}
